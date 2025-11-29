@@ -91,7 +91,14 @@ The backend analyzes model outputs to generate human-readable insights, such as:
 *(Add your screenshots here)*
 
 ---
+## Authors
+- Amit Hajare  – [@Naruto1505](https://github.com/Naruto1505)
+- Siddesh Mangarule  – [@SIDDHESH8282](https://github.com/SIDDHESH8282)
+- Ravindra Shelar  – [@Luminous-afk](https://github.com/Luminous-afk)
 
+
+
+---
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
