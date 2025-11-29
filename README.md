@@ -28,7 +28,7 @@ The platform is built on a modern, scalable tech stack:
 *   **Frontend**: React 18, Vite, Tailwind CSS, Recharts
 *   **Backend**: FastAPI, Uvicorn, Pydantic
 *   **Machine Learning**: XGBoost, Pandas, NumPy, Scikit-learn
-*   **Data**: Historical market data (2014-2025)
+*   **Data**: Historical market data (2014-2024)
 
 ---
 
